@@ -6,7 +6,7 @@ const BTSBoxes = () => {
     return (
         <Page>
             <Subtitle>HOW I MADE: COOL BOXES</Subtitle>
-            <TeleText>(Assumption: You know what react.js is and the file structure of a react app is)</TeleText><br/><br/>
+            <TeleText>(Assumption: You know what react.js is and the file structure of a react app)</TeleText><br/><br/>
             <StyledLink to="/">BACK TO HOME</StyledLink><br/>
             <StyledLink to="/PROJ2">CHECK OUT THE BOXES PROJECT HERE</StyledLink><br/><br/>
             <img src="https://i.ibb.co/gPKJk2P/1.png"/><br/>
