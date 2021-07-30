@@ -13,7 +13,7 @@
   "devDependencies": {
     "gh-pages": "^3.2.3"
   },
-  "homepage": "http://tinfoilhardhat.github.io/tinfoilhardhat",
+  "homepage": "http://tinfoilhardhat.github.io/reactapp1",
   "scripts": {
     "start": "react-scripts start",
     "test": "react-scripts test --env=jsdom",
